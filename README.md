@@ -12,4 +12,5 @@ me out of trouble even though it's a school assignment.
 Crypto trading bots are computer programs that create and submit buy and sell orders 
 to exchanges based on the rules of a pre-defined trading strategy. (Added by Wesley Blair)
 <br/>
+<br/>
 Such bots are often programmed to sell once the crypto's value reaches a certain price which is determined through a series of formulas and strategies. (Added via pull request)
